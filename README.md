@@ -10,6 +10,6 @@ About Me:
 - 👯 Check out my GitHub blog: [Dylan's Data Science Blog](dylans0ng.github.io)
 - 📫 How to reach me: dylanhgs@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can juggle three balls!
+- ⚡ Fun fact: I can juggle three balls
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylans0ng)](https://github.com/anuraghazra/github-readme-stats)
