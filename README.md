@@ -6,7 +6,7 @@
 
 About Me:
 - 🔭 I’m an aspiring data scientist in high school and a passionate tennis player living in the great Seattle area. 
-- 📖 I’m currently working on a SQL portfolio project that involves analyzing data science salaries using a dataset that I found on Kaggle.  
+- 📖 I’m currently working on a YT Short involving the Mission Impossible Rotten Tomato Ratings!  
 - 👯 Check out my GitHub blog: [Dylan's Data Science Blog](dylans0ng.github.io)
 - 📫 How to reach me: dylanhgs@gmail.com
 - 😄 Pronouns: he/him
