@@ -6,7 +6,7 @@
 
 About Me:
 - 🔭 I’m an aspiring data scientist in high school and a passionate pickleball player living in the great Seattle area. 
-- 📖 I’m currently creating a fitness app with a login system using Flask and SQLAlchemy! 
+- 📖 I’m currently working on a YouTube playlist that will contain videos on data structures and algorithms in Python!
 - 👯 Check out my Medium blog: [Dylan's Data Science Blog](https://medium.com/@dylanhgs)
 - 📫 How to reach me: dylanhgs@gmail.com
 - 😄 Pronouns: he/him
